@@ -1,3 +1,5 @@
+package com.obsqura.javaprograms.sub;
+
 class Palindrome
 {
 public int reverse(int n)
@@ -26,6 +28,6 @@ System.out.println("Number is not palindrome");
 public static void main(String args[])
 {
 Palindrome obj=new Palindrome();
-obj.check(1221);
+obj.check(1334);
 }
 }
