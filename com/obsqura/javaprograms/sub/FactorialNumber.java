@@ -1,3 +1,5 @@
+package com.obsqura.javaprograms.sub;
+
 class FactorialNumber
 {
 public int calculate(int n)
@@ -17,6 +19,6 @@ System.out.println("Factorial of "+ n +" is "+ a);
 public static void main(String args[])
 {
 FactorialNumber obj=new FactorialNumber();
-obj.print(5);
+obj.print(7);
 }
 }
